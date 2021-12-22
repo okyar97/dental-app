@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104956162555",
+    "project_id": "dentistappointmentapp-17d90",
+    "storage_bucket": "dentistappointmentapp-17d90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104956162555:android:c237a3a598a2e0b9d09b5e",
+        "android_client_info": {
+          "package_name": "com.dentistappointment.app05"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104956162555-i2gqa681h6mku4gj2ectuevon1l811v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9fUx9rmpTnMqbT-TVHfQvg6CUXSrFh-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104956162555-i2gqa681h6mku4gj2ectuevon1l811v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
